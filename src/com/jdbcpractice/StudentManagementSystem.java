@@ -11,7 +11,7 @@ public class StudentManagementSystem {
 	
 	private static final String url ="jdbc:mysql://localhost:3306/jdbc_practice";
 	private static final String userName = "root";
-	private static final String password = "Mahivce@538";
+	private static final String password = "your_mysql_password";
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
