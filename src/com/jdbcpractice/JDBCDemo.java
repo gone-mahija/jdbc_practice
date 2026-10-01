@@ -14,7 +14,7 @@ public class JDBCDemo {
 		System.out.println("Program started");
 		String url = "jdbc:mysql://localhost:3306/jdbc_practice";
 		String username = "root";
-		String password = "Mahivce@538";
+		String password = "your_mysql_password";
 		
 		String sql = "DELETE FROM students where id = ?";
 		
