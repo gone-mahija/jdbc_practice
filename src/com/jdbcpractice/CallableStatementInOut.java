@@ -9,7 +9,7 @@ import java.sql.CallableStatement;
 public class CallableStatementInOut {
 	private static final String URL = "jdbc:mysql://localhost:3306/jdbc_practice";
 	private static final String USERNAME = "root";
-	private static final String PASSWORD = "Mahivce@538";
+	private static final String PASSWORD = "your_mysql_password";
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
